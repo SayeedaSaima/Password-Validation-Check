@@ -1,0 +1,92 @@
+/*most of the galaxy fold mobile device code goes here*/
+
+@media (min-width: 279px) and (max-width:319px)
+{
+/*css strt*/
+body, .wrapper{
+	padding: 15px;
+}
+.wrapper .pass-field{
+	height: 50px;
+} 
+.pass-field input, .Content p{
+	font-size: 0.9em;
+}
+.pass-field i, .requirement-list li{
+	font-size: 0.8em;
+}
+.requirement-list li span{
+	margin-left: 4px;
+}
+/*css end*/
+}
+
+/*most of the smart phone or mobile device code goes here*/
+
+@media (min-width: 320px) and (max-width:480px)
+{
+/*css strt*/
+body, .wrapper{
+	padding: 15px;
+}
+.wrapper .pass-field{
+	height: 55px;
+} 
+.pass-field input, .Content p{
+	font-size: 1.15rem;
+}
+.pass-field i, .requirement-list li{
+	font-size: 1.1rem;
+}
+.requirement-list li span{
+	margin-left: 7px;
+}
+
+/*css end*/
+}
+
+/*most of the high.r mobile or low.r tab code goes here*/
+
+@media (min-width: 481px) and (max-width:767px)
+{
+/*css strt*/
+body, .wrapper{
+	padding: 15px;
+}
+.wrapper .pass-field{
+	height: 55px;
+} 
+.pass-field input, .Content p{
+	font-size: 1.15rem;
+}
+.pass-field i, .requirement-list li{
+	font-size: 1.1rem;
+}
+.requirement-list li span{
+	margin-left: 7px;
+}
+/*css end*/
+}
+
+/*most of the tablet,notebook,ipad code goes here*/
+
+@media (min-width: 768px) and (max-width:1024px)
+{
+/*css strt*/
+body, .wrapper{
+	padding: 15px;
+}
+.wrapper .pass-field{
+	height: 55px;
+} 
+.pass-field input, .Content p{
+	font-size: 1.15rem;
+}
+.pass-field i, .requirement-list li{
+	font-size: 1.1rem;
+}
+.requirement-list li span{
+	margin-left: 7px;
+}
+/*css end*/
+}
